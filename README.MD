@@ -1,7 +1,7 @@
 # String-Constructor in C++
 
 Welcome to the String-Constructor project implemented in C++!
-- Made 
+- Made in October-November 2023
 
 ## Overview
 
